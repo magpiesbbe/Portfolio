@@ -1,1 +1,10 @@
-# Portfolio
+## my skill
+- spreadsheets
+- SQL database
+- R Programming
+- Python Programming
+- Dashboard
+- Stat & ML
+
+## My portfolio
+Please see my google data studio dashboard [here](www.google.com)
